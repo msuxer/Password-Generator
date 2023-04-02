@@ -1,2 +1,3 @@
 # Password-Generator
 Simple Python script that generates a random and secure password for users.
+It utilizes the random and string modules to generate a password that consists of a mix of uppercase and lowercase letters, digits, and special characters. The length of the password can be specified by the user. This program is useful for anyone who wants to create a secure password quickly and easily, without having to think of a complex combination themselves. The program can be run from the command line, making it easy to use on any operating system. With its simple code and customizable options, RandomPasswordGenerator.py is a great tool for anyone who wants to enhance their online security.
